@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://iqrafareed:5027521!@cmsdb.rjywz.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"b8f8c8d925230fa6a028",
+    "githubSecret":"45a87cab7f7213e5677a6b6ab68ebb7443b7f03d"
+}
